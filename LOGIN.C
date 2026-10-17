@@ -1,0 +1,16 @@
+//#include"work.c"
+void heading()
+{
+	printf("                !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n");
+	printf("                *                                                 *\n");
+	printf("                *         SERVICE CENTER MANAGEMENT SYSTEMS       *\n");
+	printf("                *                                                 *\n");
+	printf("                !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n");
+}
+void heading2()
+{
+	printf("                           *                           *\n");
+	printf("                           *    Show Panding Detailes  *\n");
+	printf("                           *                           *\n");
+	printf("                                                       \n");
+}
